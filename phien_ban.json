@@ -1,9 +1,9 @@
 {
- "phien_ban": "1.0.4",
- "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.4/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
- "sha256": "e6e33fea6d68a9b651ac25b6872a5b61286c57095401f25dedcc9a7ed97e272a",
- "ghi_chu": "Đủ giọng như Giọng Đọc Studio: 41 giọng ai33 kể chuyện có sẵn (có Sawyer - Midnight Storyteller; dán key ai33 của bạn là đọc được), hiện đủ 29 giọng Kokoro (bấm đúp CAI_KOKORO.bat để cài 1 lần), 50 giọng Edge miễn phí.",
+ "phien_ban": "1.0.5",
+ "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.5/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
+ "sha256": "2f6082ae55e041a2cbc6ef83bb493b52e7e9e07b08a9388b67974778574c88f3",
+ "ghi_chu": "Nút ▶ SẢN XUẤT TỰ ĐỘNG: gõ tiêu đề bấm 1 lần ra video; tool đang bận thì tự xếp hàng tiêu đề; báo rõ khi bận",
  "ngay": "03/11/2026",
- "ky": "41f5d924b023f4f0d02e4d92fa220443ea7459619ba988c3799a780d89574116e06aeda3f6928ff85e20a11da464ab024c0e16f549bbf8fc14dc9fb822703900",
+ "ky": "3ca932289b2c8aa8fa1c3a383f172f7da66d258c37465e13451e7b1120577e8f0041df3f45987cce14af9a8c3c6621bd8818950ae2648610ba466fd1fa178a06",
  "bo_cai": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.0/TOOL_VIDEO_CHUA_GOI_CAI.zip"
 }
