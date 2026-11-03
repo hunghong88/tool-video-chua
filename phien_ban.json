@@ -1,9 +1,9 @@
 {
- "phien_ban": "1.0.5",
- "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.5/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
- "sha256": "2f6082ae55e041a2cbc6ef83bb493b52e7e9e07b08a9388b67974778574c88f3",
- "ghi_chu": "Nút ▶ SẢN XUẤT TỰ ĐỘNG: gõ tiêu đề bấm 1 lần ra video; tool đang bận thì tự xếp hàng tiêu đề; báo rõ khi bận",
+ "phien_ban": "1.0.6",
+ "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.6/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
+ "sha256": "3fe436c9aac38807a0e922a4b96d5241284e30b21d281839462eb6aab0f6b57c",
+ "ghi_chu": "Viết kịch bản: video ra đúng số phút theo tốc độ thật của giọng; văn nói tự nhiên hơn; câu chống lừa đảo; gợi ý video xem tiếp có thật; giữ đúng tiêu đề anh gõ",
  "ngay": "03/11/2026",
- "ky": "3ca932289b2c8aa8fa1c3a383f172f7da66d258c37465e13451e7b1120577e8f0041df3f45987cce14af9a8c3c6621bd8818950ae2648610ba466fd1fa178a06",
+ "ky": "d8505f02080fad3117ff480551a77cf69e7fc6bf0f1554adca2c5f2f894f45d53cf971a21b86885075bc7befd7d24119dfc1901f6d1f0d582dd66d01d66de00e",
  "bo_cai": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.0/TOOL_VIDEO_CHUA_GOI_CAI.zip"
 }
