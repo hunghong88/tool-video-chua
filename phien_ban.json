@@ -1,9 +1,9 @@
 {
- "phien_ban": "1.0.2",
- "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.2/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
- "sha256": "c6f89de5f12ef1b2f9de01c43f5fb82770066e6ce7592ca563c33e8379eb9d13",
- "ghi_chu": "Vẽ ảnh AI cho video (tuỳ chọn từng video): Tool Ảnh Flow vẽ theo đúng thuật toán Tool Vẽ Tay, 10 phong cách, xen kẽ hoặc toàn bài, tự soát chữ trên ảnh. Bài viết còn lỗi luật YouTube thì AI tự sửa đúng câu lỗi, giữ nhịp.",
+ "phien_ban": "1.0.3",
+ "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.3/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
+ "sha256": "5ea4e624958bd6503866d7873a129a1b19660747496fb4b7835511009c1daa99",
+ "ghi_chu": "Giọng đọc gộp sẵn trong tool (không cần cài Giọng Đọc Studio riêng): Edge miễn phí, ai33, Azure; dán key là lưu ngay; chỉnh tốc độ đọc; dán văn bản bất kỳ để đọc giọng. Khách dùng ai33/Azure: dán lại key ở mục 7.",
  "ngay": "03/11/2026",
- "ky": "210139c0317d52c753d5106c5c753e26197a08b7094dab15c565ff590d2db3ba62ffa82b5699b9236b23890246914043b22f05f75df38cf28b88d7b1ce07e508",
+ "ky": "bb0a161181c3fd214201f9f0f1ad64c455dac0262bc9693de46030eecbd06bed83bce1f6652eb5063e7f665f53716041a384a8085dd74ba78f42a86e34bd4505",
  "bo_cai": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.0/TOOL_VIDEO_CHUA_GOI_CAI.zip"
 }
