@@ -1,9 +1,9 @@
 {
- "phien_ban": "1.0.8",
- "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.8/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
- "sha256": "8074a0b174e80840274b889a4af1ee1911c367748320f9b5da8f241fe36003fb",
- "ghi_chu": "1.0.8: thêm 26 nền vẽ bằng code (41 nơi) có biến thể; AI dựng cảnh thông minh (ánh sáng, thời tiết, đồ bày); mức Kết hợp nền Flow + nền code chọn tỉ lệ",
+ "phien_ban": "1.0.9",
+ "tep": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.9/TOOL_VIDEO_CHUA_CAP_NHAT.zip",
+ "sha256": "196258b4b94a715c4a28f53ecc2e5398f228f51e62634c8465641a40ec13e097",
+ "ghi_chu": "1.0.9: tiếng động tự tạo — âm chuyển cảnh (vút/chuông/lật giấy), tiếng nền theo cảnh (mưa, gió, sóng, suối, chim, dế, chuông), âm nhấn; dùng được file tiếng của anh trong thư mục AM_THANH",
  "ngay": "04/11/2026",
- "ky": "a1042bf14904fe6b2be09e18f241bf9c00d5620b763bfd994b57b23577d5fae5fecce2ba982dad3280de2723c7823e2529cf6bccdaaa32dff5b21209cd84a20b",
+ "ky": "f260c9e01a4ceddf5a62913ed9308d21bb4492c0af84f42524eb739283f4e6cd7a8b37c497e8bccda95392f906447fb0e0d8214fb8963e3c203aa0c2435be603",
  "bo_cai": "https://github.com/hunghong88/tool-video-chua/releases/download/v1.0.0/TOOL_VIDEO_CHUA_GOI_CAI.zip"
 }
